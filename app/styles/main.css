@@ -1,0 +1,96 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px; }
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+  /* Make the masthead heading the same height as the navigation */ }
+  .header h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+    padding-bottom: 19px; }
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5; }
+
+.container-narrow > hr {
+  margin: 30px 0; }
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5; }
+  .jumbotron.half {
+    width: 50%; }
+  .jumbotron.two-thirds {
+    width: 66%; }
+  .jumbotron.mobile .only-mobile {
+    display: block; }
+  .jumbotron.mobile .only-tablet-portrait {
+    display: none; }
+  .jumbotron.mobile .only-tablet-landscape {
+    display: none; }
+  .jumbotron.mobile .only-desktop {
+    display: none; }
+  .jumbotron.tablet-portrait .only-mobile {
+    display: none; }
+  .jumbotron.tablet-portrait .only-tablet-portrait {
+    display: block; }
+  .jumbotron.tablet-portrait .only-tablet-landscape {
+    display: none; }
+  .jumbotron.tablet-portrait .only-desktop {
+    display: none; }
+  .jumbotron.tablet-landscape .only-mobile {
+    display: none; }
+  .jumbotron.tablet-landscape .only-tablet-portrait {
+    display: none; }
+  .jumbotron.tablet-landscape .only-tablet-landscape {
+    display: block; }
+  .jumbotron.tablet-landscape .only-desktop {
+    display: none; }
+  .jumbotron.desktop .only-mobile {
+    display: none; }
+  .jumbotron.desktop .only-tablet-portrait {
+    display: none; }
+  .jumbotron.desktop .only-tablet-landscape {
+    display: none; }
+  .jumbotron.desktop .only-desktop {
+    display: block; }
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0; }
+  .marketing p + h4 {
+    margin-top: 28px; }
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0; }
+
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px; }
+
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0; } }
+
+/*# sourceMappingURL=main.css.map */
