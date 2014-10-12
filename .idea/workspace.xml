@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17e70dc7-b287-42c5-b5fc-d5ffe6dd1aa8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/spec/controllers/about.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/spec/controllers/main.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/.buildignore" afterPath="$PROJECT_DIR$/.buildignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/yeoman.png" afterPath="$PROJECT_DIR$/images/yeoman.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/robots.txt" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scripts/app.js" afterPath="$PROJECT_DIR$/scripts/app.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scripts/com/2fdevs/ui/elementQuery/uiElementQuery.js" afterPath="$PROJECT_DIR$/scripts/com/2fdevs/ui/elementQuery/uiElementQuery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scripts/controllers/main.js" afterPath="$PROJECT_DIR$/scripts/controllers/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/styles/main.scss" afterPath="$PROJECT_DIR$/styles/main.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/main.html" afterPath="$PROJECT_DIR$/views/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="17e70dc7-b287-42c5-b5fc-d5ffe6dd1aa8" name="Default" comment="" />
     <ignored path="ui-element-query.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
